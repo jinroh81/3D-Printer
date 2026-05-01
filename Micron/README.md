@@ -4,7 +4,7 @@ Dieses Repository enthält die Klipper-Konfigurationsdateien für meinen **Micro
 
 ---
 
-## 🛠 Hardware Spezifikationen FormbotKIT
+## 🛠 Spezifikationen FormbotKIT
 
 | Komponente | Modell |
 | :--- | :--- |
@@ -13,3 +13,4 @@ Dieses Repository enthält die Klipper-Konfigurationsdateien für meinen **Micro
 | **Z-Sonde** | Cartographer V3 (Survey) |
 | **Antrieb** | Moons Motoren (CoreXY) |
 | **Besonderheiten** | 180mm Bauraum, Nevermore Filter, Micron+ Spezifikation |
+| **OS** | Bookworm / Kalico |
